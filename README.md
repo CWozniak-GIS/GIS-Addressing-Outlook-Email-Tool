@@ -4,7 +4,7 @@ A Custom ArcGIS Pro Python Geoprocessing Tool for Generating a Template Outlook 
 # Generate E911 Address Assignment Notification
 
 ### Purpose:
-• To quickly generate an authoritative email, which will open as a draft in a new Outlook window, from an input address point selection.
+• To quickly generate an authoritative email which will open as a draft in a new Outlook window from an input address point selection.
 • The tool accommodates many optional parameters relevant to a local government addressing administrator's workflow.
 • It is highly recommended for organizations to set up defaults for input feature layers and fields so the tool can be run quickly after the dialogue box opens.
 
@@ -19,7 +19,7 @@ with the exception of configured default parameters. This should be used as a re
 
 ### Author:
 Chris Wozniak (Christopher Wozniak)
-Academic: cwoznia4@jh.edu | Work: cwozniak@bedfordcountyva.gov | Personal: chris@myyahoo.com
+Academic: cwoznia4@jh.edu | Work: cwozniak@bedfordcountyva.gov | Personal: cwozniak@myyahoo.com
 
 # Raw Python Code (Main Script):
     ###
